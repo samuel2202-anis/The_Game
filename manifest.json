@@ -1,11 +1,11 @@
 {
-    "name": "fer2a",
-    "short_name": "fer2a",
+    "name": "SGWEN Game",
+    "short_name": "The Game",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "le3bt sho3bt kshafaa.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
